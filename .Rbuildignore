@@ -12,3 +12,6 @@
 ^cran-comments\.md$
 ^\.DS_Store$
 ^\.Rhistory$
+^DESCRIPTION\.bak$
+^\./\.travis\.yml\.bak$
+^\./appveyor\.yml\.bak$
